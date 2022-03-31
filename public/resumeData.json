@@ -1,45 +1,35 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Chris",
+    "occupation": "React Developer",
     "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "image": "profilePhoto.jpg",
+    "bio": "Hi there! I am Chris! I've been coding for over year. As a Full Stack developer I've worked with Chainbytes LLC to help build & scale their companies. Along my journey I realised my passion existed in building software solutions and problem solving.",
+    "contactmessage": "Let's build something interesting!",
+    "email": "crisner.prsvr@gmail.com",
+    "phone": "(561) 781-2819",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "3209 Pheasant Run Trl",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "zip": "37130"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://risner-portfolio-app.web.app/",
+    "resumedownload": "coming soon",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/crisner1978",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/chris-risner-developer/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/crisner1978",
         "className": "fa fa-github"
       }
     ]
@@ -48,28 +38,24 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Persevere",
+        "degree": "Full Stack Developer",
+        "graduated": "November 2021",
+        "description": "Full Stack Javascript Developer"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Chainbytes",
+        "title": "React Developer",
+        "years": "Jan 2022 - Present",
+        "description": "Building full stack React web, mobile applications."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
         "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
       },
       {
         "name": "Git",
@@ -88,34 +74,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Malamutes (Next JS)",
+        "category": "Next JS/React, Tailwind & Sendgrid",
+        "image": "malamutes.png",
+        "url": "https://www.snowlegendmalamutes.com/"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "Therapeutic (Next JS)",
+        "category": "Next JS/React, MongoDB, Next-Auth & Tailwind",
+        "image": "therapeuticSalon.png",
+        "url": "https://therapeutic-hair-salon.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Reddit Clone (React JS)",
+        "category": "React JS, Firebase v9 Auth/Firestore & Zustand",
+        "image": "Reddit clone.png",
+        "url": "https://reddit-clone-rise.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Chris is a great team leader and collaborator with excellent technical knowledge of the things he’s built",
+        "user": "Jonathan Gan"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Built a fantastic website to showcase our Malamute Puppies!",
+        "user": "Katie Lozuke"
       }
     ]
   }
